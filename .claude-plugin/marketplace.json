@@ -5,38 +5,35 @@
     "name": "Niclas",
     "email": "sarfervah@gmail.com"
   },
-  "metadata": {
-    "pluginRoot": "./plugins"
-  },
   "plugins": [
     {
       "name": "hn-radar",
-      "source": "./hn-radar",
+      "source": "./plugins/hn-radar",
       "description": "HN-bevakning med Obsidian-loggning"
     },
     {
       "name": "reddit-radar",
-      "source": "./reddit-radar",
+      "source": "./plugins/reddit-radar",
       "description": "Reddit-bevakning med Obsidian-loggning"
     },
     {
       "name": "research-grund",
-      "source": "./research-grund",
+      "source": "./plugins/research-grund",
       "description": "Sparar fokuserad research som permanenta noter till vault"
     },
     {
       "name": "vault-diagnostik",
-      "source": "./vault-diagnostik",
+      "source": "./plugins/vault-diagnostik",
       "description": "Analyserar vault-hälsa mot CLAUDE.md-specifikation"
     },
     {
       "name": "source-first",
-      "source": "./source-first",
+      "source": "./plugins/source-first",
       "description": "Hämtar alltid officiell dokumentation vid faktafrågor om verktyg"
     },
     {
       "name": "task-observer",
-      "source": "./task-observer",
+      "source": "./plugins/task-observer",
       "description": "Kontinuerlig skill-förbättring och observation under sessioner"
     }
   ]
