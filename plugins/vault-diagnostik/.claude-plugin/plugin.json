@@ -1,0 +1,5 @@
+{
+  "name": "vault-diagnostik",
+  "description": "Analyserar vault-hälsa mot CLAUDE.md-specifikation",
+  "version": "1.0.0"
+}
