@@ -1,0 +1,6 @@
+{
+  "name": "obsidian-tools",
+  "version": "1.0.0",
+  "description": "Verktygssuite för Obsidian — skriv noter, bygg Bases-vyer, hämta webbinnehåll och styr vaultet via CLI",
+  "author": { "name": "Niclas" }
+}

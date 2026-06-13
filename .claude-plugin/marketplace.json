@@ -35,6 +35,11 @@
       "name": "research",
       "source": "./plugins/research",
       "description": "Research- och lärande-skills: djup källanalys, kunskapsnoter i Obsidian, källverifiering och Sokratisk inlärning"
+    },
+    {
+      "name": "obsidian-tools",
+      "source": "./plugins/obsidian-tools",
+      "description": "Verktygssuite för Obsidian — skriv noter, bygg Bases-vyer, hämta webbinnehåll och styr vaultet via CLI"
     }
   ]
 }
