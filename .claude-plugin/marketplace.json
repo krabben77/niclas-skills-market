@@ -30,6 +30,11 @@
       "name": "clarity",
       "source": "./plugins/clarity",
       "description": "Plain-language explanations of what Claude Code built, changed, or planned — in jargon-free language so non-programmers can understand what happened, why, and what the risks are."
+    },
+    {
+      "name": "research",
+      "source": "./plugins/research",
+      "description": "Research- och lärande-skills: djup källanalys, kunskapsnoter i Obsidian, källverifiering och Sokratisk inlärning"
     }
   ]
 }
