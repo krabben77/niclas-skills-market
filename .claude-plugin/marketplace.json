@@ -7,34 +7,29 @@
   },
   "plugins": [
     {
-      "name": "hn-radar",
-      "source": "./plugins/hn-radar",
-      "description": "HN-bevakning med Obsidian-loggning"
+      "name": "desktop-commander",
+      "source": "./plugins/desktop-commander",
+      "description": "MCP server for terminal commands, process management, and file operations across text, code, PDF, DOCX, Excel, images, and structured data"
     },
     {
-      "name": "reddit-radar",
-      "source": "./plugins/reddit-radar",
-      "description": "Reddit-bevakning med Obsidian-loggning"
+      "name": "pdf-viewer",
+      "source": "./plugins/pdf-viewer",
+      "description": "View, annotate, and sign PDFs in a live interactive viewer. Mark up contracts, fill forms with visual feedback, stamp approvals, and place signatures — then download the annotated copy."
     },
     {
-      "name": "research-grund",
-      "source": "./plugins/research-grund",
-      "description": "Sparar fokuserad research som permanenta noter till vault"
+      "name": "obsidian-assistant",
+      "source": "./plugins/obsidian-assistant",
+      "description": "Teknisk assistent för Obsidian-vaultets Claude-system och Obsidians plugin-API"
     },
     {
-      "name": "vault-diagnostik",
-      "source": "./plugins/vault-diagnostik",
-      "description": "Analyserar vault-hälsa mot CLAUDE.md-specifikation"
+      "name": "cowork-plugin-management",
+      "source": "./plugins/cowork-plugin-management",
+      "description": "Create, customize, and manage plugins tailored to your organization's tools and workflows. Configure MCP servers, adjust plugin behavior, and adapt templates to match how your team works."
     },
     {
-      "name": "source-first",
-      "source": "./plugins/source-first",
-      "description": "Hämtar alltid officiell dokumentation vid faktafrågor om verktyg"
-    },
-    {
-      "name": "task-observer",
-      "source": "./plugins/task-observer",
-      "description": "Kontinuerlig skill-förbättring och observation under sessioner"
+      "name": "clarity",
+      "source": "./plugins/clarity",
+      "description": "Plain-language explanations of what Claude Code built, changed, or planned — in jargon-free language so non-programmers can understand what happened, why, and what the risks are."
     }
   ]
 }
