@@ -40,6 +40,11 @@
       "name": "obsidian-tools",
       "source": "./plugins/obsidian-tools",
       "description": "Verktygssuite för Obsidian — skriv noter, bygg Bases-vyer, hämta webbinnehåll och styr vaultet via CLI"
+    },
+    {
+      "name": "referens-agent",
+      "source": "./plugins/referens-agent",
+      "description": "Skriver korta, svenskspråkiga referensnoter till 30-referensbibliotek utifrån skills, scripts och teknisk dokumentation — komplement till kunskaps-agent."
     }
   ]
 }

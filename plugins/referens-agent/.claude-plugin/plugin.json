@@ -1,0 +1,5 @@
+{
+  "name": "referens-agent",
+  "description": "Skriver korta, svenskspråkiga referensnoter till 30-referensbibliotek utifrån skills, scripts och teknisk dokumentation — komplement till kunskaps-agent.",
+  "version": "1.0.0"
+}
